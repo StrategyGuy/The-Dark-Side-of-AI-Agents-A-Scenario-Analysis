@@ -240,11 +240,4 @@ You can contribute by:
 | 🛡️ No accusations | Don't name real entities negatively |
 | 💡 Be constructive | Suggest improvements, not just problems |
 
-### Question Format
-
-When adding new questions, use this format:
-
-```markdown
-| # | Question |
-|---|----------|
-| X | Your question here? |
+[👉 Join the discussion on Issue #1](https://github.com/wc-strategyguy/The-Dark-Side-of-AI-Agents/issues/1)
